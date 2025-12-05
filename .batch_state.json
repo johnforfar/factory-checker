@@ -1,0 +1,11 @@
+{
+  "current_batch_size": 2,
+  "recent_success_rates": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "consecutive_successful_batches": 0,
+  "last_batch_size": 0,
+  "last_batch_apps": []
+}

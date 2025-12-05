@@ -1,0 +1,1539 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/OpenxAI-Network/miniapp-factory-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/OpenxAI-Network/miniapp-factory
+[submodule "template"]
+	path = template
+	url = https://github.com/OpenxAI-Network/miniapp-factory-template
+[submodule "imagegen"]
+	path = imagegen
+	url = https://github.com/OpenxAI-Network/miniapp-factory-imagegen
+[submodule "coder"]
+	path = coder
+	url = https://github.com/OpenxAI-Network/miniapp-factory-coder
+[submodule "app-review/apps/xos"]
+	path = app-review/apps/xos
+	url = https://github.com/miniapp-factory/xos
+[submodule "apps/xos"]
+	path = apps/xos
+	url = https://github.com/miniapp-factory/xos
+[submodule "apps/mario"]
+	path = apps/mario
+	url = https://github.com/miniapp-factory/mario
+[submodule "apps/quiz"]
+	path = apps/quiz
+	url = https://github.com/miniapp-factory/quiz
+[submodule "apps/dragon-hunter"]
+	path = apps/dragon-hunter
+	url = https://github.com/miniapp-factory/dragon-hunter
+[submodule "apps/alpha"]
+	path = apps/alpha
+	url = https://github.com/miniapp-factory/alpha
+[submodule "apps/stonks"]
+	path = apps/stonks
+	url = https://github.com/miniapp-factory/stonks
+[submodule "apps/0xburi"]
+	path = apps/0xburi
+	url = https://github.com/miniapp-factory/0xburi.git
+[submodule "apps/0xdepined"]
+	path = apps/0xdepined
+	url = https://github.com/miniapp-factory/0xdepined.git
+[submodule "apps/0xproject11"]
+	path = apps/0xproject11
+	url = https://github.com/miniapp-factory/0xproject11.git
+[submodule "apps/111110"]
+	path = apps/111110
+	url = https://github.com/miniapp-factory/111110.git
+[submodule "apps/11fdf"]
+	path = apps/11fdf
+	url = https://github.com/miniapp-factory/11fdf.git
+[submodule "apps/12212f"]
+	path = apps/12212f
+	url = https://github.com/miniapp-factory/12212f.git
+[submodule "apps/123456"]
+	path = apps/123456
+	url = https://github.com/miniapp-factory/123456.git
+[submodule "apps/2048"]
+	path = apps/2048
+	url = https://github.com/miniapp-factory/2048.git
+[submodule "apps/2048-app"]
+	path = apps/2048-app
+	url = https://github.com/miniapp-factory/2048-app.git
+[submodule "apps/220803"]
+	path = apps/220803
+	url = https://github.com/miniapp-factory/220803.git
+[submodule "apps/2442"]
+	path = apps/2442
+	url = https://github.com/miniapp-factory/2442.git
+[submodule "apps/2d-to-3d-printer"]
+	path = apps/2d-to-3d-printer
+	url = https://github.com/miniapp-factory/2d-to-3d-printer.git
+[submodule "apps/5minlearn"]
+	path = apps/5minlearn
+	url = https://github.com/miniapp-factory/5minlearn.git
+[submodule "apps/aapps"]
+	path = apps/aapps
+	url = https://github.com/miniapp-factory/aapps.git
+[submodule "apps/abcd"]
+	path = apps/abcd
+	url = https://github.com/miniapp-factory/abcd.git
+[submodule "apps/abeddehmet"]
+	path = apps/abeddehmet
+	url = https://github.com/miniapp-factory/abeddehmet.git
+[submodule "apps/abhi"]
+	path = apps/abhi
+	url = https://github.com/miniapp-factory/abhi.git
+[submodule "apps/advent-calendar"]
+	path = apps/advent-calendar
+	url = https://github.com/miniapp-factory/advent-calendar.git
+[submodule "apps/agro-ins"]
+	path = apps/agro-ins
+	url = https://github.com/miniapp-factory/agro-ins.git
+[submodule "apps/ai-farmer"]
+	path = apps/ai-farmer
+	url = https://github.com/miniapp-factory/ai-farmer.git
+[submodule "apps/ai-girlfriend"]
+	path = apps/ai-girlfriend
+	url = https://github.com/miniapp-factory/ai-girlfriend.git
+[submodule "apps/ai-logogenerator"]
+	path = apps/ai-logogenerator
+	url = https://github.com/miniapp-factory/ai-logogenerator.git
+[submodule "apps/ai-powered-habit-tracker"]
+	path = apps/ai-powered-habit-tracker
+	url = https://github.com/miniapp-factory/ai-powered-habit-tracker.git
+[submodule "apps/ai-story-generator"]
+	path = apps/ai-story-generator
+	url = https://github.com/miniapp-factory/ai-story-generator.git
+[submodule "apps/ai-taskprioritizer"]
+	path = apps/ai-taskprioritizer
+	url = https://github.com/miniapp-factory/ai-taskprioritizer.git
+[submodule "apps/aibuddy"]
+	path = apps/aibuddy
+	url = https://github.com/miniapp-factory/aibuddy.git
+[submodule "apps/aicall"]
+	path = apps/aicall
+	url = https://github.com/miniapp-factory/aicall.git
+[submodule "apps/aigainzz"]
+	path = apps/aigainzz
+	url = https://github.com/miniapp-factory/aigainzz.git
+[submodule "apps/aigrandma"]
+	path = apps/aigrandma
+	url = https://github.com/miniapp-factory/aigrandma.git
+[submodule "apps/aihug"]
+	path = apps/aihug
+	url = https://github.com/miniapp-factory/aihug.git
+[submodule "apps/aiplanner"]
+	path = apps/aiplanner
+	url = https://github.com/miniapp-factory/aiplanner.git
+[submodule "apps/airdrop"]
+	path = apps/airdrop
+	url = https://github.com/miniapp-factory/airdrop.git
+[submodule "apps/airdrop-claim-status-checker"]
+	path = apps/airdrop-claim-status-checker
+	url = https://github.com/miniapp-factory/airdrop-claim-status-checker.git
+[submodule "apps/airdrop-jav"]
+	path = apps/airdrop-jav
+	url = https://github.com/miniapp-factory/airdrop-jav.git
+[submodule "apps/airport-simulation"]
+	path = apps/airport-simulation
+	url = https://github.com/miniapp-factory/airport-simulation.git
+[submodule "apps/aithereumnetwork"]
+	path = apps/aithereumnetwork
+	url = https://github.com/miniapp-factory/aithereumnetwork.git
+[submodule "apps/aiwriter"]
+	path = apps/aiwriter
+	url = https://github.com/miniapp-factory/aiwriter.git
+[submodule "apps/aiy"]
+	path = apps/aiy
+	url = https://github.com/miniapp-factory/aiy.git
+[submodule "apps/alertwhale"]
+	path = apps/alertwhale
+	url = https://github.com/miniapp-factory/alertwhale.git
+[submodule "apps/alfiams"]
+	path = apps/alfiams
+	url = https://github.com/miniapp-factory/alfiams.git
+[submodule "apps/alias"]
+	path = apps/alias
+	url = https://github.com/miniapp-factory/alias.git
+[submodule "apps/alongdrop91"]
+	path = apps/alongdrop91
+	url = https://github.com/miniapp-factory/alongdrop91.git
+[submodule "apps/alt"]
+	path = apps/alt
+	url = https://github.com/miniapp-factory/alt.git
+[submodule "apps/alta"]
+	path = apps/alta
+	url = https://github.com/miniapp-factory/alta.git
+[submodule "apps/ander"]
+	path = apps/ander
+	url = https://github.com/miniapp-factory/ander.git
+[submodule "apps/animesuggest"]
+	path = apps/animesuggest
+	url = https://github.com/miniapp-factory/animesuggest.git
+[submodule "apps/api04"]
+	path = apps/api04
+	url = https://github.com/miniapp-factory/api04.git
+[submodule "apps/apka"]
+	path = apps/apka
+	url = https://github.com/miniapp-factory/apka.git
+[submodule "apps/aplee"]
+	path = apps/aplee
+	url = https://github.com/miniapp-factory/aplee.git
+[submodule "apps/app-factory"]
+	path = apps/app-factory
+	url = https://github.com/miniapp-factory/app-factory.git
+[submodule "apps/appmame"]
+	path = apps/appmame
+	url = https://github.com/miniapp-factory/appmame.git
+[submodule "apps/apps"]
+	path = apps/apps
+	url = https://github.com/miniapp-factory/apps.git
+[submodule "apps/april-time"]
+	path = apps/april-time
+	url = https://github.com/miniapp-factory/april-time.git
+[submodule "apps/apsaa"]
+	path = apps/apsaa
+	url = https://github.com/miniapp-factory/apsaa.git
+[submodule "apps/aptos"]
+	path = apps/aptos
+	url = https://github.com/miniapp-factory/aptos.git
+[submodule "apps/aqua-fish"]
+	path = apps/aqua-fish
+	url = https://github.com/miniapp-factory/aqua-fish.git
+[submodule "apps/ar"]
+	path = apps/ar
+	url = https://github.com/miniapp-factory/ar.git
+[submodule "apps/arbipeek"]
+	path = apps/arbipeek
+	url = https://github.com/miniapp-factory/arbipeek.git
+[submodule "apps/archer"]
+	path = apps/archer
+	url = https://github.com/miniapp-factory/archer.git
+[submodule "apps/arizronin"]
+	path = apps/arizronin
+	url = https://github.com/miniapp-factory/arizronin.git
+[submodule "apps/aryan"]
+	path = apps/aryan
+	url = https://github.com/miniapp-factory/aryan.git
+[submodule "apps/asevedo"]
+	path = apps/asevedo
+	url = https://github.com/miniapp-factory/asevedo.git
+[submodule "apps/askmycrypto"]
+	path = apps/askmycrypto
+	url = https://github.com/miniapp-factory/askmycrypto.git
+[submodule "apps/askthechef"]
+	path = apps/askthechef
+	url = https://github.com/miniapp-factory/askthechef.git
+[submodule "apps/audiose"]
+	path = apps/audiose
+	url = https://github.com/miniapp-factory/audiose.git
+[submodule "apps/audiotranscript-meetingsummarizer"]
+	path = apps/audiotranscript-meetingsummarizer
+	url = https://github.com/miniapp-factory/audiotranscript-meetingsummarizer.git
+[submodule "apps/auto-flashcardgenerator"]
+	path = apps/auto-flashcardgenerator
+	url = https://github.com/miniapp-factory/auto-flashcardgenerator.git
+[submodule "apps/automatic-mind-mapcreator"]
+	path = apps/automatic-mind-mapcreator
+	url = https://github.com/miniapp-factory/automatic-mind-mapcreator.git
+[submodule "apps/automatic-reportgenerator"]
+	path = apps/automatic-reportgenerator
+	url = https://github.com/miniapp-factory/automatic-reportgenerator.git
+[submodule "apps/babysimulator"]
+	path = apps/babysimulator
+	url = https://github.com/miniapp-factory/babysimulator.git
+[submodule "apps/backtestlite"]
+	path = apps/backtestlite
+	url = https://github.com/miniapp-factory/backtestlite.git
+[submodule "apps/balloonpopper"]
+	path = apps/balloonpopper
+	url = https://github.com/miniapp-factory/balloonpopper.git
+[submodule "apps/bambex"]
+	path = apps/bambex
+	url = https://github.com/miniapp-factory/bambex.git
+[submodule "apps/baobab"]
+	path = apps/baobab
+	url = https://github.com/miniapp-factory/baobab.git
+[submodule "apps/base"]
+	path = apps/base
+	url = https://github.com/miniapp-factory/base.git
+[submodule "apps/base-c"]
+	path = apps/base-c
+	url = https://github.com/miniapp-factory/base-c.git
+[submodule "apps/base-count-badge"]
+	path = apps/base-count-badge
+	url = https://github.com/miniapp-factory/base-count-badge.git
+[submodule "apps/base-crash"]
+	path = apps/base-crash
+	url = https://github.com/miniapp-factory/base-crash.git
+[submodule "apps/base-gas"]
+	path = apps/base-gas
+	url = https://github.com/miniapp-factory/base-gas.git
+[submodule "apps/base-hamster-ceo"]
+	path = apps/base-hamster-ceo
+	url = https://github.com/miniapp-factory/base-hamster-ceo.git
+[submodule "apps/base-match"]
+	path = apps/base-match
+	url = https://github.com/miniapp-factory/base-match.git
+[submodule "apps/base-meta"]
+	path = apps/base-meta
+	url = https://github.com/miniapp-factory/base-meta.git
+[submodule "apps/base-mini"]
+	path = apps/base-mini
+	url = https://github.com/miniapp-factory/base-mini.git
+[submodule "apps/base-pet-game"]
+	path = apps/base-pet-game
+	url = https://github.com/miniapp-factory/base-pet-game.git
+[submodule "apps/base-quiz"]
+	path = apps/base-quiz
+	url = https://github.com/miniapp-factory/base-quiz.git
+[submodule "apps/base-slots"]
+	path = apps/base-slots
+	url = https://github.com/miniapp-factory/base-slots.git
+[submodule "apps/base-snake"]
+	path = apps/base-snake
+	url = https://github.com/miniapp-factory/base-snake.git
+[submodule "apps/base-survival"]
+	path = apps/base-survival
+	url = https://github.com/miniapp-factory/base-survival.git
+[submodule "apps/baseapp"]
+	path = apps/baseapp
+	url = https://github.com/miniapp-factory/baseapp.git
+[submodule "apps/basebuilder"]
+	path = apps/basebuilder
+	url = https://github.com/miniapp-factory/basebuilder.git
+[submodule "apps/based-endorsement"]
+	path = apps/based-endorsement
+	url = https://github.com/miniapp-factory/based-endorsement.git
+[submodule "apps/based-secrets"]
+	path = apps/based-secrets
+	url = https://github.com/miniapp-factory/based-secrets.git
+[submodule "apps/based-slots"]
+	path = apps/based-slots
+	url = https://github.com/miniapp-factory/based-slots.git
+[submodule "apps/based-snake"]
+	path = apps/based-snake
+	url = https://github.com/miniapp-factory/based-snake.git
+[submodule "apps/baseweb3bot"]
+	path = apps/baseweb3bot
+	url = https://github.com/miniapp-factory/baseweb3bot.git
+[submodule "apps/basic-investmentadvisor"]
+	path = apps/basic-investmentadvisor
+	url = https://github.com/miniapp-factory/basic-investmentadvisor.git
+[submodule "apps/basic-token-performance-chart"]
+	path = apps/basic-token-performance-chart
+	url = https://github.com/miniapp-factory/basic-token-performance-chart.git
+[submodule "apps/basictokeninfo"]
+	path = apps/basictokeninfo
+	url = https://github.com/miniapp-factory/basictokeninfo.git
+[submodule "apps/basisbase"]
+	path = apps/basisbase
+	url = https://github.com/miniapp-factory/basisbase.git
+[submodule "apps/basketball"]
+	path = apps/basketball
+	url = https://github.com/miniapp-factory/basketball.git
+[submodule "apps/basketshooter"]
+	path = apps/basketshooter
+	url = https://github.com/miniapp-factory/basketshooter.git
+[submodule "apps/batman"]
+	path = apps/batman
+	url = https://github.com/miniapp-factory/batman.git
+[submodule "apps/bb-vine"]
+	path = apps/bb-vine
+	url = https://github.com/miniapp-factory/bb-vine.git
+[submodule "apps/bdba"]
+	path = apps/bdba
+	url = https://github.com/miniapp-factory/bdba.git
+[submodule "apps/bembi"]
+	path = apps/bembi
+	url = https://github.com/miniapp-factory/bembi.git
+[submodule "apps/bercerk"]
+	path = apps/bercerk
+	url = https://github.com/miniapp-factory/bercerk.git
+[submodule "apps/berri"]
+	path = apps/berri
+	url = https://github.com/miniapp-factory/berri.git
+[submodule "apps/beta"]
+	path = apps/beta
+	url = https://github.com/miniapp-factory/beta.git
+[submodule "apps/bfdhd"]
+	path = apps/bfdhd
+	url = https://github.com/miniapp-factory/bfdhd.git
+[submodule "apps/bhimteck"]
+	path = apps/bhimteck
+	url = https://github.com/miniapp-factory/bhimteck.git
+[submodule "apps/bhupendra00"]
+	path = apps/bhupendra00
+	url = https://github.com/miniapp-factory/bhupendra00.git
+[submodule "apps/bibi"]
+	path = apps/bibi
+	url = https://github.com/miniapp-factory/bibi.git
+[submodule "apps/bibl"]
+	path = apps/bibl
+	url = https://github.com/miniapp-factory/bibl.git
+[submodule "apps/bible-app"]
+	path = apps/bible-app
+	url = https://github.com/miniapp-factory/bible-app.git
+[submodule "apps/billionaireadvice"]
+	path = apps/billionaireadvice
+	url = https://github.com/miniapp-factory/billionaireadvice.git
+[submodule "apps/billionzeon-app"]
+	path = apps/billionzeon-app
+	url = https://github.com/miniapp-factory/billionzeon-app.git
+[submodule "apps/binyxt"]
+	path = apps/binyxt
+	url = https://github.com/miniapp-factory/binyxt.git
+[submodule "apps/birthday-reminder-app"]
+	path = apps/birthday-reminder-app
+	url = https://github.com/miniapp-factory/birthday-reminder-app.git
+[submodule "apps/bitcoin-app"]
+	path = apps/bitcoin-app
+	url = https://github.com/miniapp-factory/bitcoin-app.git
+[submodule "apps/blackmagic"]
+	path = apps/blackmagic
+	url = https://github.com/miniapp-factory/blackmagic.git
+[submodule "apps/blockchain-gas-predictor"]
+	path = apps/blockchain-gas-predictor
+	url = https://github.com/miniapp-factory/blockchain-gas-predictor.git
+[submodule "apps/blog-pr-writing-assistan"]
+	path = apps/blog-pr-writing-assistan
+	url = https://github.com/miniapp-factory/blog-pr-writing-assistan.git
+[submodule "apps/boban"]
+	path = apps/boban
+	url = https://github.com/miniapp-factory/boban.git
+[submodule "apps/bobo"]
+	path = apps/bobo
+	url = https://github.com/miniapp-factory/bobo.git
+[submodule "apps/bobreku"]
+	path = apps/bobreku
+	url = https://github.com/miniapp-factory/bobreku.git
+[submodule "apps/bogoblog"]
+	path = apps/bogoblog
+	url = https://github.com/miniapp-factory/bogoblog.git
+[submodule "apps/bokies"]
+	path = apps/bokies
+	url = https://github.com/miniapp-factory/bokies.git
+[submodule "apps/bombdiffuse"]
+	path = apps/bombdiffuse
+	url = https://github.com/miniapp-factory/bombdiffuse.git
+[submodule "apps/boomber"]
+	path = apps/boomber
+	url = https://github.com/miniapp-factory/boomber.git
+[submodule "apps/boss"]
+	path = apps/boss
+	url = https://github.com/miniapp-factory/boss.git
+[submodule "apps/boss-raid-base"]
+	path = apps/boss-raid-base
+	url = https://github.com/miniapp-factory/boss-raid-base.git
+[submodule "apps/bossluth-app"]
+	path = apps/bossluth-app
+	url = https://github.com/miniapp-factory/bossluth-app.git
+[submodule "apps/bounce"]
+	path = apps/bounce
+	url = https://github.com/miniapp-factory/bounce.git
+[submodule "apps/bouncy-banana"]
+	path = apps/bouncy-banana
+	url = https://github.com/miniapp-factory/bouncy-banana.git
+[submodule "apps/boxer"]
+	path = apps/boxer
+	url = https://github.com/miniapp-factory/boxer.git
+[submodule "apps/brickbreakermini"]
+	path = apps/brickbreakermini
+	url = https://github.com/miniapp-factory/brickbreakermini.git
+[submodule "apps/brilliant"]
+	path = apps/brilliant
+	url = https://github.com/miniapp-factory/brilliant.git
+[submodule "apps/btc"]
+	path = apps/btc
+	url = https://github.com/miniapp-factory/btc.git
+[submodule "apps/btcelon"]
+	path = apps/btcelon
+	url = https://github.com/miniapp-factory/btcelon.git
+[submodule "apps/bubbleshootermini"]
+	path = apps/bubbleshootermini
+	url = https://github.com/miniapp-factory/bubbleshootermini.git
+[submodule "apps/budget-tracker"]
+	path = apps/budget-tracker
+	url = https://github.com/miniapp-factory/budget-tracker.git
+[submodule "apps/budgettracker"]
+	path = apps/budgettracker
+	url = https://github.com/miniapp-factory/budgettracker.git
+[submodule "apps/bull-bear"]
+	path = apps/bull-bear
+	url = https://github.com/miniapp-factory/bull-bear.git
+[submodule "apps/bverse"]
+	path = apps/bverse
+	url = https://github.com/miniapp-factory/bverse.git
+[submodule "apps/calculator"]
+	path = apps/calculator
+	url = https://github.com/miniapp-factory/calculator.git
+[submodule "apps/calender-app"]
+	path = apps/calender-app
+	url = https://github.com/miniapp-factory/calender-app.git
+[submodule "apps/cannycrush"]
+	path = apps/cannycrush
+	url = https://github.com/miniapp-factory/cannycrush.git
+[submodule "apps/capitalmatch"]
+	path = apps/capitalmatch
+	url = https://github.com/miniapp-factory/capitalmatch.git
+[submodule "apps/cardbattlemini"]
+	path = apps/cardbattlemini
+	url = https://github.com/miniapp-factory/cardbattlemini.git
+[submodule "apps/cardiosim"]
+	path = apps/cardiosim
+	url = https://github.com/miniapp-factory/cardiosim.git
+[submodule "apps/career-guidanceassistant"]
+	path = apps/career-guidanceassistant
+	url = https://github.com/miniapp-factory/career-guidanceassistant.git
+[submodule "apps/cargopuzzle"]
+	path = apps/cargopuzzle
+	url = https://github.com/miniapp-factory/cargopuzzle.git
+[submodule "apps/casidog"]
+	path = apps/casidog
+	url = https://github.com/miniapp-factory/casidog.git
+[submodule "apps/catpics"]
+	path = apps/catpics
+	url = https://github.com/miniapp-factory/catpics.git
+[submodule "apps/cc"]
+	path = apps/cc
+	url = https://github.com/miniapp-factory/cc.git
+[submodule "apps/ccc"]
+	path = apps/ccc
+	url = https://github.com/miniapp-factory/ccc.git
+[submodule "apps/celestial-keysmith"]
+	path = apps/celestial-keysmith
+	url = https://github.com/miniapp-factory/celestial-keysmith.git
+[submodule "apps/cerc"]
+	path = apps/cerc
+	url = https://github.com/miniapp-factory/cerc.git
+[submodule "apps/certy"]
+	path = apps/certy
+	url = https://github.com/miniapp-factory/certy.git
+[submodule "apps/charif45"]
+	path = apps/charif45
+	url = https://github.com/miniapp-factory/charif45.git
+[submodule "apps/chatgpt"]
+	path = apps/chatgpt
+	url = https://github.com/miniapp-factory/chatgpt.git
+[submodule "apps/chatmix"]
+	path = apps/chatmix
+	url = https://github.com/miniapp-factory/chatmix.git
+[submodule "apps/cheke"]
+	path = apps/cheke
+	url = https://github.com/miniapp-factory/cheke.git
+[submodule "apps/cheker"]
+	path = apps/cheker
+	url = https://github.com/miniapp-factory/cheker.git
+[submodule "apps/chemmatch"]
+	path = apps/chemmatch
+	url = https://github.com/miniapp-factory/chemmatch.git
+[submodule "apps/chess"]
+	path = apps/chess
+	url = https://github.com/miniapp-factory/chess.git
+[submodule "apps/citybuilder5x5"]
+	path = apps/citybuilder5x5
+	url = https://github.com/miniapp-factory/citybuilder5x5.git
+[submodule "apps/clawmachinemini"]
+	path = apps/clawmachinemini
+	url = https://github.com/miniapp-factory/clawmachinemini.git
+[submodule "apps/click-the-color"]
+	path = apps/click-the-color
+	url = https://github.com/miniapp-factory/click-the-color.git
+[submodule "apps/clock"]
+	path = apps/clock
+	url = https://github.com/miniapp-factory/clock.git
+[submodule "apps/clone-war"]
+	path = apps/clone-war
+	url = https://github.com/miniapp-factory/clone-war.git
+[submodule "apps/clot"]
+	path = apps/clot
+	url = https://github.com/miniapp-factory/clot.git
+[submodule "apps/coffeshop"]
+	path = apps/coffeshop
+	url = https://github.com/miniapp-factory/coffeshop.git
+[submodule "apps/coinprice"]
+	path = apps/coinprice
+	url = https://github.com/miniapp-factory/coinprice.git
+[submodule "apps/coinsentinel"]
+	path = apps/coinsentinel
+	url = https://github.com/miniapp-factory/coinsentinel.git
+[submodule "apps/community-finance-tracker"]
+	path = apps/community-finance-tracker
+	url = https://github.com/miniapp-factory/community-finance-tracker.git
+[submodule "apps/community-wallet-movement-monitor"]
+	path = apps/community-wallet-movement-monitor
+	url = https://github.com/miniapp-factory/community-wallet-movement-monitor.git
+[submodule "apps/complimentai"]
+	path = apps/complimentai
+	url = https://github.com/miniapp-factory/complimentai.git
+[submodule "apps/contract-draftingassistant"]
+	path = apps/contract-draftingassistant
+	url = https://github.com/miniapp-factory/contract-draftingassistant.git
+[submodule "apps/cooking-play"]
+	path = apps/cooking-play
+	url = https://github.com/miniapp-factory/cooking-play.git
+[submodule "apps/coolnickname"]
+	path = apps/coolnickname
+	url = https://github.com/miniapp-factory/coolnickname.git
+[submodule "apps/couw"]
+	path = apps/couw
+	url = https://github.com/miniapp-factory/couw.git
+[submodule "apps/couww"]
+	path = apps/couww
+	url = https://github.com/miniapp-factory/couww.git
+[submodule "apps/creatorking"]
+	path = apps/creatorking
+	url = https://github.com/miniapp-factory/creatorking.git
+[submodule "apps/cripta"]
+	path = apps/cripta
+	url = https://github.com/miniapp-factory/cripta.git
+[submodule "apps/crochet-school-assistant"]
+	path = apps/crochet-school-assistant
+	url = https://github.com/miniapp-factory/crochet-school-assistant.git
+[submodule "apps/crochet-stitches"]
+	path = apps/crochet-stitches
+	url = https://github.com/miniapp-factory/crochet-stitches.git
+[submodule "apps/cross-chain-wallet-activity-sync"]
+	path = apps/cross-chain-wallet-activity-sync
+	url = https://github.com/miniapp-factory/cross-chain-wallet-activity-sync.git
+[submodule "apps/cross-chainportfolio"]
+	path = apps/cross-chainportfolio
+	url = https://github.com/miniapp-factory/cross-chainportfolio.git
+[submodule "apps/cross-chaintracker"]
+	path = apps/cross-chaintracker
+	url = https://github.com/miniapp-factory/cross-chaintracker.git
+[submodule "apps/crypto-arbitrage-scanner"]
+	path = apps/crypto-arbitrage-scanner
+	url = https://github.com/miniapp-factory/crypto-arbitrage-scanner.git
+[submodule "apps/crypto-bazaar"]
+	path = apps/crypto-bazaar
+	url = https://github.com/miniapp-factory/crypto-bazaar.git
+[submodule "apps/crypto-checklist-for-new-projects"]
+	path = apps/crypto-checklist-for-new-projects
+	url = https://github.com/miniapp-factory/crypto-checklist-for-new-projects.git
+[submodule "apps/crypto-dominance-meter"]
+	path = apps/crypto-dominance-meter
+	url = https://github.com/miniapp-factory/crypto-dominance-meter.git
+[submodule "apps/crypto-goal-tracker"]
+	path = apps/crypto-goal-tracker
+	url = https://github.com/miniapp-factory/crypto-goal-tracker.git
+[submodule "apps/crypto-influencer-trading"]
+	path = apps/crypto-influencer-trading
+	url = https://github.com/miniapp-factory/crypto-influencer-trading.git
+[submodule "apps/crypto-quiz"]
+	path = apps/crypto-quiz
+	url = https://github.com/miniapp-factory/crypto-quiz.git
+[submodule "apps/crypto-secret-confess"]
+	path = apps/crypto-secret-confess
+	url = https://github.com/miniapp-factory/crypto-secret-confess.git
+[submodule "apps/crypto-watchlist"]
+	path = apps/crypto-watchlist
+	url = https://github.com/miniapp-factory/crypto-watchlist.git
+[submodule "apps/cryptoairdropchecker"]
+	path = apps/cryptoairdropchecker
+	url = https://github.com/miniapp-factory/cryptoairdropchecker.git
+[submodule "apps/cryptocalculator"]
+	path = apps/cryptocalculator
+	url = https://github.com/miniapp-factory/cryptocalculator.git
+[submodule "apps/cryptoexplainer"]
+	path = apps/cryptoexplainer
+	url = https://github.com/miniapp-factory/cryptoexplainer.git
+[submodule "apps/cryptofeargreedmeter"]
+	path = apps/cryptofeargreedmeter
+	url = https://github.com/miniapp-factory/cryptofeargreedmeter.git
+[submodule "apps/cryptoliver"]
+	path = apps/cryptoliver
+	url = https://github.com/miniapp-factory/cryptoliver.git
+[submodule "apps/cryptomarketsummary"]
+	path = apps/cryptomarketsummary
+	url = https://github.com/miniapp-factory/cryptomarketsummary.git
+[submodule "apps/cryptoportfolio"]
+	path = apps/cryptoportfolio
+	url = https://github.com/miniapp-factory/cryptoportfolio.git
+[submodule "apps/cryptoquiz"]
+	path = apps/cryptoquiz
+	url = https://github.com/miniapp-factory/cryptoquiz.git
+[submodule "apps/cryptoscanner"]
+	path = apps/cryptoscanner
+	url = https://github.com/miniapp-factory/cryptoscanner.git
+[submodule "apps/dca-calc"]
+	path = apps/dca-calc
+	url = https://github.com/miniapp-factory/dca-calc
+[submodule "apps/dzandirr"]
+	path = apps/dzandirr
+	url = https://github.com/miniapp-factory/dzandirr
+[submodule "apps/cryptotips"]
+	path = apps/cryptotips
+	url = https://github.com/miniapp-factory/cryptotips.git
+[submodule "apps/cryptowhaleinteractiontracker"]
+	path = apps/cryptowhaleinteractiontracker
+	url = https://github.com/miniapp-factory/cryptowhaleinteractiontracker.git
+[submodule "apps/kanikani"]
+	path = apps/kanikani
+	url = https://github.com/miniapp-factory/kanikani
+[submodule "apps/minions"]
+	path = apps/minions
+	url = https://github.com/miniapp-factory/minions
+[submodule "apps/neprox"]
+	path = apps/neprox
+	url = https://github.com/miniapp-factory/neprox
+[submodule "apps/cycl"]
+	path = apps/cycl
+	url = https://github.com/miniapp-factory/cycl.git
+[submodule "apps/daily-habittracker"]
+	path = apps/daily-habittracker
+	url = https://github.com/miniapp-factory/daily-habittracker.git
+[submodule "apps/pong"]
+	path = apps/pong
+	url = https://github.com/miniapp-factory/pong
+[submodule "apps/sasaa"]
+	path = apps/sasaa
+	url = https://github.com/miniapp-factory/sasaa
+[submodule "apps/dailytopgainerstable"]
+	path = apps/dailytopgainerstable
+	url = https://github.com/miniapp-factory/dailytopgainerstable.git
+[submodule "apps/tiny-frogger"]
+	path = apps/tiny-frogger
+	url = https://github.com/miniapp-factory/tiny-frogger
+[submodule "apps/yapper"]
+	path = apps/yapper
+	url = https://github.com/miniapp-factory/yapper
+[submodule "apps/daovotingpower"]
+	path = apps/daovotingpower
+	url = https://github.com/miniapp-factory/daovotingpower.git
+[submodule "apps/datungpobre"]
+	path = apps/datungpobre
+	url = https://github.com/miniapp-factory/datungpobre.git
+[submodule "apps/dca-planner-lite"]
+	path = apps/dca-planner-lite
+	url = https://github.com/miniapp-factory/dca-planner-lite.git
+[submodule "apps/dder"]
+	path = apps/dder
+	url = https://github.com/miniapp-factory/dder.git
+[submodule "apps/deep-seek"]
+	path = apps/deep-seek
+	url = https://github.com/miniapp-factory/deep-seek.git
+[submodule "apps/defi-fee-consumption-racker"]
+	path = apps/defi-fee-consumption-racker
+	url = https://github.com/miniapp-factory/defi-fee-consumption-racker.git
+[submodule "apps/defi-protocols"]
+	path = apps/defi-protocols
+	url = https://github.com/miniapp-factory/defi-protocols.git
+[submodule "apps/defilending"]
+	path = apps/defilending
+	url = https://github.com/miniapp-factory/defilending.git
+[submodule "apps/defimargincallalert"]
+	path = apps/defimargincallalert
+	url = https://github.com/miniapp-factory/defimargincallalert.git
+[submodule "apps/defiriskscanner"]
+	path = apps/defiriskscanner
+	url = https://github.com/miniapp-factory/defiriskscanner.git
+[submodule "apps/defitracker"]
+	path = apps/defitracker
+	url = https://github.com/miniapp-factory/defitracker.git
+[submodule "apps/defiyieldfinder"]
+	path = apps/defiyieldfinder
+	url = https://github.com/miniapp-factory/defiyieldfinder.git
+[submodule "apps/derty"]
+	path = apps/derty
+	url = https://github.com/miniapp-factory/derty.git
+[submodule "apps/devil-app"]
+	path = apps/devil-app
+	url = https://github.com/miniapp-factory/devil-app.git
+[submodule "apps/dexarbitrage"]
+	path = apps/dexarbitrage
+	url = https://github.com/miniapp-factory/dexarbitrage.git
+[submodule "apps/dexvolume"]
+	path = apps/dexvolume
+	url = https://github.com/miniapp-factory/dexvolume.git
+[submodule "apps/dm-app"]
+	path = apps/dm-app
+	url = https://github.com/miniapp-factory/dm-app.git
+[submodule "apps/dokken"]
+	path = apps/dokken
+	url = https://github.com/miniapp-factory/dokken.git
+[submodule "apps/dont-worry"]
+	path = apps/dont-worry
+	url = https://github.com/miniapp-factory/dont-worry.git
+[submodule "apps/dope"]
+	path = apps/dope
+	url = https://github.com/miniapp-factory/dope.git
+[submodule "apps/dotsandboxesmini"]
+	path = apps/dotsandboxesmini
+	url = https://github.com/miniapp-factory/dotsandboxesmini.git
+[submodule "apps/dragonbase"]
+	path = apps/dragonbase
+	url = https://github.com/miniapp-factory/dragonbase.git
+[submodule "apps/drip"]
+	path = apps/drip
+	url = https://github.com/miniapp-factory/drip.git
+[submodule "apps/dulal"]
+	path = apps/dulal
+	url = https://github.com/miniapp-factory/dulal.git
+[submodule "apps/ehte"]
+	path = apps/ehte
+	url = https://github.com/miniapp-factory/ehte.git
+[submodule "apps/elsa"]
+	path = apps/elsa
+	url = https://github.com/miniapp-factory/elsa.git
+[submodule "apps/emojimeaning"]
+	path = apps/emojimeaning
+	url = https://github.com/miniapp-factory/emojimeaning.git
+[submodule "apps/endlessrunner"]
+	path = apps/endlessrunner
+	url = https://github.com/miniapp-factory/endlessrunner.git
+[submodule "apps/era"]
+	path = apps/era
+	url = https://github.com/miniapp-factory/era.git
+[submodule "apps/eric"]
+	path = apps/eric
+	url = https://github.com/miniapp-factory/eric.git
+[submodule "apps/everyx"]
+	path = apps/everyx
+	url = https://github.com/miniapp-factory/everyx.git
+[submodule "apps/exit-strategy-planner"]
+	path = apps/exit-strategy-planner
+	url = https://github.com/miniapp-factory/exit-strategy-planner.git
+[submodule "apps/fabeau"]
+	path = apps/fabeau
+	url = https://github.com/miniapp-factory/fabeau.git
+[submodule "apps/faketweet"]
+	path = apps/faketweet
+	url = https://github.com/miniapp-factory/faketweet.git
+[submodule "apps/fallingplatforms"]
+	path = apps/fallingplatforms
+	url = https://github.com/miniapp-factory/fallingplatforms.git
+[submodule "apps/farcaster-portfolio"]
+	path = apps/farcaster-portfolio
+	url = https://github.com/miniapp-factory/farcaster-portfolio.git
+[submodule "apps/farmminiharvest"]
+	path = apps/farmminiharvest
+	url = https://github.com/miniapp-factory/farmminiharvest.git
+[submodule "apps/fasttapfrenzy"]
+	path = apps/fasttapfrenzy
+	url = https://github.com/miniapp-factory/fasttapfrenzy.git
+[submodule "apps/feel-flow"]
+	path = apps/feel-flow
+	url = https://github.com/miniapp-factory/feel-flow.git
+[submodule "apps/ffree"]
+	path = apps/ffree
+	url = https://github.com/miniapp-factory/ffree.git
+[submodule "apps/financ"]
+	path = apps/financ
+	url = https://github.com/miniapp-factory/financ.git
+[submodule "apps/fitness-tracker"]
+	path = apps/fitness-tracker
+	url = https://github.com/miniapp-factory/fitness-tracker.git
+[submodule "apps/fitnessmini"]
+	path = apps/fitnessmini
+	url = https://github.com/miniapp-factory/fitnessmini.git
+[submodule "apps/flappy-coin"]
+	path = apps/flappy-coin
+	url = https://github.com/miniapp-factory/flappy-coin.git
+[submodule "apps/flashbase-bets"]
+	path = apps/flashbase-bets
+	url = https://github.com/miniapp-factory/flashbase-bets.git
+[submodule "apps/flashmath"]
+	path = apps/flashmath
+	url = https://github.com/miniapp-factory/flashmath.git
+[submodule "apps/flip-the-coin"]
+	path = apps/flip-the-coin
+	url = https://github.com/miniapp-factory/flip-the-coin.git
+[submodule "apps/foodmatch"]
+	path = apps/foodmatch
+	url = https://github.com/miniapp-factory/foodmatch.git
+[submodule "apps/fruit-slice-challenge"]
+	path = apps/fruit-slice-challenge
+	url = https://github.com/miniapp-factory/fruit-slice-challenge.git
+[submodule "apps/fundrateflow"]
+	path = apps/fundrateflow
+	url = https://github.com/miniapp-factory/fundrateflow.git
+[submodule "apps/futures"]
+	path = apps/futures
+	url = https://github.com/miniapp-factory/futures.git
+[submodule "apps/game"]
+	path = apps/game
+	url = https://github.com/miniapp-factory/game.git
+[submodule "apps/gamegames"]
+	path = apps/gamegames
+	url = https://github.com/miniapp-factory/gamegames.git
+[submodule "apps/gamified"]
+	path = apps/gamified
+	url = https://github.com/miniapp-factory/gamified.git
+[submodule "apps/gasgazer"]
+	path = apps/gasgazer
+	url = https://github.com/miniapp-factory/gasgazer.git
+[submodule "apps/gem-detctor"]
+	path = apps/gem-detctor
+	url = https://github.com/miniapp-factory/gem-detctor.git
+[submodule "apps/gemini-assistant"]
+	path = apps/gemini-assistant
+	url = https://github.com/miniapp-factory/gemini-assistant.git
+[submodule "apps/genai"]
+	path = apps/genai
+	url = https://github.com/miniapp-factory/genai.git
+[submodule "apps/genesisnft"]
+	path = apps/genesisnft
+	url = https://github.com/miniapp-factory/genesisnft.git
+[submodule "apps/getr"]
+	path = apps/getr
+	url = https://github.com/miniapp-factory/getr.git
+[submodule "apps/ggttr"]
+	path = apps/ggttr
+	url = https://github.com/miniapp-factory/ggttr.git
+[submodule "apps/gogo"]
+	path = apps/gogo
+	url = https://github.com/miniapp-factory/gogo.git
+[submodule "apps/golik"]
+	path = apps/golik
+	url = https://github.com/miniapp-factory/golik.git
+[submodule "apps/gordon"]
+	path = apps/gordon
+	url = https://github.com/miniapp-factory/gordon.git
+[submodule "apps/gre"]
+	path = apps/gre
+	url = https://github.com/miniapp-factory/gre.git
+[submodule "apps/gyyt"]
+	path = apps/gyyt
+	url = https://github.com/miniapp-factory/gyyt.git
+[submodule "apps/hangmanmini"]
+	path = apps/hangmanmini
+	url = https://github.com/miniapp-factory/hangmanmini.git
+[submodule "apps/hedas"]
+	path = apps/hedas
+	url = https://github.com/miniapp-factory/hedas.git
+[submodule "apps/henri"]
+	path = apps/henri
+	url = https://github.com/miniapp-factory/henri.git
+[submodule "apps/hero"]
+	path = apps/hero
+	url = https://github.com/miniapp-factory/hero.git
+[submodule "apps/hhambrs"]
+	path = apps/hhambrs
+	url = https://github.com/miniapp-factory/hhambrs.git
+[submodule "apps/high-five"]
+	path = apps/high-five
+	url = https://github.com/miniapp-factory/high-five.git
+[submodule "apps/hima"]
+	path = apps/hima
+	url = https://github.com/miniapp-factory/hima.git
+[submodule "apps/hit-game"]
+	path = apps/hit-game
+	url = https://github.com/miniapp-factory/hit-game.git
+[submodule "apps/holiday-viewer"]
+	path = apps/holiday-viewer
+	url = https://github.com/miniapp-factory/holiday-viewer.git
+[submodule "apps/hub"]
+	path = apps/hub
+	url = https://github.com/miniapp-factory/hub.git
+[submodule "apps/ideaspark"]
+	path = apps/ideaspark
+	url = https://github.com/miniapp-factory/ideaspark.git
+[submodule "apps/iftier"]
+	path = apps/iftier
+	url = https://github.com/miniapp-factory/iftier.git
+[submodule "apps/imback07"]
+	path = apps/imback07
+	url = https://github.com/miniapp-factory/imback07.git
+[submodule "apps/inessik"]
+	path = apps/inessik
+	url = https://github.com/miniapp-factory/inessik.git
+[submodule "apps/internal"]
+	path = apps/internal
+	url = https://github.com/miniapp-factory/internal.git
+[submodule "apps/inventory"]
+	path = apps/inventory
+	url = https://github.com/miniapp-factory/inventory.git
+[submodule "apps/jambo"]
+	path = apps/jambo
+	url = https://github.com/miniapp-factory/jambo.git
+[submodule "apps/jee"]
+	path = apps/jee
+	url = https://github.com/miniapp-factory/jee.git
+[submodule "apps/jgh"]
+	path = apps/jgh
+	url = https://github.com/miniapp-factory/jgh.git
+[submodule "apps/jokemaker"]
+	path = apps/jokemaker
+	url = https://github.com/miniapp-factory/jokemaker.git
+[submodule "apps/journalmind"]
+	path = apps/journalmind
+	url = https://github.com/miniapp-factory/journalmind.git
+[submodule "apps/jyotitech"]
+	path = apps/jyotitech
+	url = https://github.com/miniapp-factory/jyotitech.git
+[submodule "apps/kazuro"]
+	path = apps/kazuro
+	url = https://github.com/miniapp-factory/kazuro.git
+[submodule "apps/kg"]
+	path = apps/kg
+	url = https://github.com/miniapp-factory/kg.git
+[submodule "apps/kimo"]
+	path = apps/kimo
+	url = https://github.com/miniapp-factory/kimo.git
+[submodule "apps/kk01"]
+	path = apps/kk01
+	url = https://github.com/miniapp-factory/kk01.git
+[submodule "apps/kopmaster"]
+	path = apps/kopmaster
+	url = https://github.com/miniapp-factory/kopmaster.git
+[submodule "apps/kreator"]
+	path = apps/kreator
+	url = https://github.com/miniapp-factory/kreator.git
+[submodule "apps/ktnn"]
+	path = apps/ktnn
+	url = https://github.com/miniapp-factory/ktnn.git
+[submodule "apps/language-learningassistant"]
+	path = apps/language-learningassistant
+	url = https://github.com/miniapp-factory/language-learningassistant.git
+[submodule "apps/laptop"]
+	path = apps/laptop
+	url = https://github.com/miniapp-factory/laptop.git
+[submodule "apps/law-bridge"]
+	path = apps/law-bridge
+	url = https://github.com/miniapp-factory/law-bridge.git
+[submodule "apps/layer-2fee"]
+	path = apps/layer-2fee
+	url = https://github.com/miniapp-factory/layer-2fee.git
+[submodule "apps/layk"]
+	path = apps/layk
+	url = https://github.com/miniapp-factory/layk.git
+[submodule "apps/legal-riskevaluator"]
+	path = apps/legal-riskevaluator
+	url = https://github.com/miniapp-factory/legal-riskevaluator.git
+[submodule "apps/library"]
+	path = apps/library
+	url = https://github.com/miniapp-factory/library.git
+[submodule "apps/liqhunter"]
+	path = apps/liqhunter
+	url = https://github.com/miniapp-factory/liqhunter.git
+[submodule "apps/logo-maker"]
+	path = apps/logo-maker
+	url = https://github.com/miniapp-factory/logo-maker.git
+[submodule "apps/loner"]
+	path = apps/loner
+	url = https://github.com/miniapp-factory/loner.git
+[submodule "apps/lotusflo"]
+	path = apps/lotusflo
+	url = https://github.com/miniapp-factory/lotusflo.git
+[submodule "apps/lucky"]
+	path = apps/lucky
+	url = https://github.com/miniapp-factory/lucky.git
+[submodule "apps/lunch-time"]
+	path = apps/lunch-time
+	url = https://github.com/miniapp-factory/lunch-time.git
+[submodule "apps/magic8ball"]
+	path = apps/magic8ball
+	url = https://github.com/miniapp-factory/magic8ball.git
+[submodule "apps/make-a-mini-game-to-play-fun-with-animation-and-sounds"]
+	path = apps/make-a-mini-game-to-play-fun-with-animation-and-sounds
+	url = https://github.com/miniapp-factory/make-a-mini-game-to-play-fun-with-animation-and-sounds.git
+[submodule "apps/maliknote"]
+	path = apps/maliknote
+	url = https://github.com/miniapp-factory/maliknote.git
+[submodule "apps/manic"]
+	path = apps/manic
+	url = https://github.com/miniapp-factory/manic.git
+[submodule "apps/map"]
+	path = apps/map
+	url = https://github.com/miniapp-factory/map.git
+[submodule "apps/marex"]
+	path = apps/marex
+	url = https://github.com/miniapp-factory/marex.git
+[submodule "apps/marp-app"]
+	path = apps/marp-app
+	url = https://github.com/miniapp-factory/marp-app.git
+[submodule "apps/math-tutor"]
+	path = apps/math-tutor
+	url = https://github.com/miniapp-factory/math-tutor.git
+[submodule "apps/maxxz"]
+	path = apps/maxxz
+	url = https://github.com/miniapp-factory/maxxz.git
+[submodule "apps/me"]
+	path = apps/me
+	url = https://github.com/miniapp-factory/me.git
+[submodule "apps/megadon"]
+	path = apps/megadon
+	url = https://github.com/miniapp-factory/megadon.git
+[submodule "apps/melltoy"]
+	path = apps/melltoy
+	url = https://github.com/miniapp-factory/melltoy.git
+[submodule "apps/memecaption"]
+	path = apps/memecaption
+	url = https://github.com/miniapp-factory/memecaption.git
+[submodule "apps/memes"]
+	path = apps/memes
+	url = https://github.com/miniapp-factory/memes.git
+[submodule "apps/meteordodger"]
+	path = apps/meteordodger
+	url = https://github.com/miniapp-factory/meteordodger.git
+[submodule "apps/micross"]
+	path = apps/micross
+	url = https://github.com/miniapp-factory/micross.git
+[submodule "apps/mini-app-factory-guide"]
+	path = apps/mini-app-factory-guide
+	url = https://github.com/miniapp-factory/mini-app-factory-guide.git
+[submodule "apps/miniapp"]
+	path = apps/miniapp
+	url = https://github.com/miniapp-factory/miniapp.git
+[submodule "apps/minidapp"]
+	path = apps/minidapp
+	url = https://github.com/miniapp-factory/minidapp.git
+[submodule "apps/miniminesweeper"]
+	path = apps/miniminesweeper
+	url = https://github.com/miniapp-factory/miniminesweeper.git
+[submodule "apps/mishu"]
+	path = apps/mishu
+	url = https://github.com/miniapp-factory/mishu.git
+[submodule "apps/mmiimyonce"]
+	path = apps/mmiimyonce
+	url = https://github.com/miniapp-factory/mmiimyonce.git
+[submodule "apps/monkey"]
+	path = apps/monkey
+	url = https://github.com/miniapp-factory/monkey.git
+[submodule "apps/moodemoji"]
+	path = apps/moodemoji
+	url = https://github.com/miniapp-factory/moodemoji.git
+[submodule "apps/parkingpuzzlemini"]
+	path = apps/parkingpuzzlemini
+	url = https://github.com/miniapp-factory/parkingpuzzlemini
+[submodule "apps/moodreader"]
+	path = apps/moodreader
+	url = https://github.com/miniapp-factory/moodreader.git
+[submodule "apps/ping-pong-wall"]
+	path = apps/ping-pong-wall
+	url = https://github.com/miniapp-factory/ping-pong-wall
+[submodule "apps/movierecommender"]
+	path = apps/movierecommender
+	url = https://github.com/miniapp-factory/movierecommender.git
+[submodule "apps/real-housevies-of-orange-county"]
+	path = apps/real-housevies-of-orange-county
+	url = https://github.com/miniapp-factory/real-housevies-of-orange-county
+[submodule "apps/salaman"]
+	path = apps/salaman
+	url = https://github.com/miniapp-factory/salaman
+[submodule "apps/musicfinder"]
+	path = apps/musicfinder
+	url = https://github.com/miniapp-factory/musicfinder.git
+[submodule "apps/my-box"]
+	path = apps/my-box
+	url = https://github.com/miniapp-factory/my-box.git
+[submodule "apps/studbud"]
+	path = apps/studbud
+	url = https://github.com/miniapp-factory/studbud
+[submodule "apps/towerstacker"]
+	path = apps/towerstacker
+	url = https://github.com/miniapp-factory/towerstacker
+[submodule "apps/myself"]
+	path = apps/myself
+	url = https://github.com/miniapp-factory/myself.git
+[submodule "apps/ulra"]
+	path = apps/ulra
+	url = https://github.com/miniapp-factory/ulra
+[submodule "apps/mysticmawarmerah"]
+	path = apps/mysticmawarmerah
+	url = https://github.com/miniapp-factory/mysticmawarmerah.git
+[submodule "apps/young"]
+	path = apps/young
+	url = https://github.com/miniapp-factory/young
+[submodule "apps/nesle"]
+	path = apps/nesle
+	url = https://github.com/miniapp-factory/nesle.git
+[submodule "apps/nft-drop-calendar"]
+	path = apps/nft-drop-calendar
+	url = https://github.com/miniapp-factory/nft-drop-calendar.git
+[submodule "apps/nft-trait-analyzer"]
+	path = apps/nft-trait-analyzer
+	url = https://github.com/miniapp-factory/nft-trait-analyzer.git
+[submodule "apps/nftauction"]
+	path = apps/nftauction
+	url = https://github.com/miniapp-factory/nftauction.git
+[submodule "apps/nftflooralertbot"]
+	path = apps/nftflooralertbot
+	url = https://github.com/miniapp-factory/nftflooralertbot.git
+[submodule "apps/nftmarketcaptracker"]
+	path = apps/nftmarketcaptracker
+	url = https://github.com/miniapp-factory/nftmarketcaptracker.git
+[submodule "apps/nftrarity"]
+	path = apps/nftrarity
+	url = https://github.com/miniapp-factory/nftrarity.git
+[submodule "apps/nitoryu-90"]
+	path = apps/nitoryu-90
+	url = https://github.com/miniapp-factory/nitoryu-90.git
+[submodule "apps/nodehealth"]
+	path = apps/nodehealth
+	url = https://github.com/miniapp-factory/nodehealth.git
+[submodule "apps/nxp"]
+	path = apps/nxp
+	url = https://github.com/miniapp-factory/nxp.git
+[submodule "apps/oken-unlock-schedule-lite"]
+	path = apps/oken-unlock-schedule-lite
+	url = https://github.com/miniapp-factory/oken-unlock-schedule-lite.git
+[submodule "apps/on-chainactivitymonitor"]
+	path = apps/on-chainactivitymonitor
+	url = https://github.com/miniapp-factory/on-chainactivitymonitor.git
+[submodule "apps/open"]
+	path = apps/open
+	url = https://github.com/miniapp-factory/open.git
+[submodule "apps/openxai"]
+	path = apps/openxai
+	url = https://github.com/miniapp-factory/openxai.git
+[submodule "apps/oxb"]
+	path = apps/oxb
+	url = https://github.com/miniapp-factory/oxb.git
+[submodule "apps/password-strengthchecker"]
+	path = apps/password-strengthchecker
+	url = https://github.com/miniapp-factory/password-strengthchecker.git
+[submodule "apps/pengu"]
+	path = apps/pengu
+	url = https://github.com/miniapp-factory/pengu.git
+[submodule "apps/personal-expensetracker"]
+	path = apps/personal-expensetracker
+	url = https://github.com/miniapp-factory/personal-expensetracker.git
+[submodule "apps/php-money-scanner"]
+	path = apps/php-money-scanner
+	url = https://github.com/miniapp-factory/php-money-scanner.git
+[submodule "apps/play-to-earn"]
+	path = apps/play-to-earn
+	url = https://github.com/miniapp-factory/play-to-earn.git
+[submodule "apps/poolscoop"]
+	path = apps/poolscoop
+	url = https://github.com/miniapp-factory/poolscoop.git
+[submodule "apps/portfolio-allocation-planner"]
+	path = apps/portfolio-allocation-planner
+	url = https://github.com/miniapp-factory/portfolio-allocation-planner.git
+[submodule "apps/portfoliohelper"]
+	path = apps/portfoliohelper
+	url = https://github.com/miniapp-factory/portfoliohelper.git
+[submodule "apps/prince139"]
+	path = apps/prince139
+	url = https://github.com/miniapp-factory/prince139.git
+[submodule "apps/proeck645"]
+	path = apps/proeck645
+	url = https://github.com/miniapp-factory/proeck645.git
+[submodule "apps/profit-and-loss-snapshot"]
+	path = apps/profit-and-loss-snapshot
+	url = https://github.com/miniapp-factory/profit-and-loss-snapshot.git
+[submodule "apps/promt"]
+	path = apps/promt
+	url = https://github.com/miniapp-factory/promt.git
+[submodule "apps/pumpit"]
+	path = apps/pumpit
+	url = https://github.com/miniapp-factory/pumpit.git
+[submodule "apps/quick-math"]
+	path = apps/quick-math
+	url = https://github.com/miniapp-factory/quick-math.git
+[submodule "apps/quiz-calcio"]
+	path = apps/quiz-calcio
+	url = https://github.com/miniapp-factory/quiz-calcio.git
+[submodule "apps/qwsaq"]
+	path = apps/qwsaq
+	url = https://github.com/miniapp-factory/qwsaq.git
+[submodule "apps/ramu"]
+	path = apps/ramu
+	url = https://github.com/miniapp-factory/ramu.git
+[submodule "apps/randomquote"]
+	path = apps/randomquote
+	url = https://github.com/miniapp-factory/randomquote.git
+[submodule "apps/reaction-timetest"]
+	path = apps/reaction-timetest
+	url = https://github.com/miniapp-factory/reaction-timetest.git
+[submodule "apps/rebalancemate"]
+	path = apps/rebalancemate
+	url = https://github.com/miniapp-factory/rebalancemate.git
+[submodule "apps/refer"]
+	path = apps/refer
+	url = https://github.com/miniapp-factory/refer.git
+[submodule "apps/reminderai"]
+	path = apps/reminderai
+	url = https://github.com/miniapp-factory/reminderai.git
+[submodule "apps/retry"]
+	path = apps/retry
+	url = https://github.com/miniapp-factory/retry.git
+[submodule "apps/risk-level-selector"]
+	path = apps/risk-level-selector
+	url = https://github.com/miniapp-factory/risk-level-selector.git
+[submodule "apps/roastgenerator"]
+	path = apps/roastgenerator
+	url = https://github.com/miniapp-factory/roastgenerator.git
+[submodule "apps/rock-paper-scissors"]
+	path = apps/rock-paper-scissors
+	url = https://github.com/miniapp-factory/rock-paper-scissors.git
+[submodule "apps/roullette"]
+	path = apps/roullette
+	url = https://github.com/miniapp-factory/roullette.git
+[submodule "apps/rugpullpredictor"]
+	path = apps/rugpullpredictor
+	url = https://github.com/miniapp-factory/rugpullpredictor.git
+[submodule "apps/s4shahzaib"]
+	path = apps/s4shahzaib
+	url = https://github.com/miniapp-factory/s4shahzaib.git
+[submodule "apps/sammi"]
+	path = apps/sammi
+	url = https://github.com/miniapp-factory/sammi.git
+[submodule "apps/santoshtech"]
+	path = apps/santoshtech
+	url = https://github.com/miniapp-factory/santoshtech.git
+[submodule "apps/sayhello"]
+	path = apps/sayhello
+	url = https://github.com/miniapp-factory/sayhello.git
+[submodule "apps/sentencebuildergame"]
+	path = apps/sentencebuildergame
+	url = https://github.com/miniapp-factory/sentencebuildergame.git
+[submodule "apps/seve-many"]
+	path = apps/seve-many
+	url = https://github.com/miniapp-factory/seve-many.git
+[submodule "apps/shoose"]
+	path = apps/shoose
+	url = https://github.com/miniapp-factory/shoose.git
+[submodule "apps/simple-crypto-calculator"]
+	path = apps/simple-crypto-calculator
+	url = https://github.com/miniapp-factory/simple-crypto-calculator.git
+[submodule "apps/sip-calc"]
+	path = apps/sip-calc
+	url = https://github.com/miniapp-factory/sip-calc.git
+[submodule "apps/slogan-tagline-generator"]
+	path = apps/slogan-tagline-generator
+	url = https://github.com/miniapp-factory/slogan-tagline-generator.git
+[submodule "apps/smart"]
+	path = apps/smart
+	url = https://github.com/miniapp-factory/smart.git
+[submodule "apps/smartmoneyflow"]
+	path = apps/smartmoneyflow
+	url = https://github.com/miniapp-factory/smartmoneyflow.git
+[submodule "apps/snake"]
+	path = apps/snake
+	url = https://github.com/miniapp-factory/snake.git
+[submodule "apps/snakeclassic"]
+	path = apps/snakeclassic
+	url = https://github.com/miniapp-factory/snakeclassic.git
+[submodule "apps/social-media-manager"]
+	path = apps/social-media-manager
+	url = https://github.com/miniapp-factory/social-media-manager.git
+[submodule "apps/spellingbeemini"]
+	path = apps/spellingbeemini
+	url = https://github.com/miniapp-factory/spellingbeemini.git
+[submodule "apps/spin-the-wheel"]
+	path = apps/spin-the-wheel
+	url = https://github.com/miniapp-factory/spin-the-wheel.git
+[submodule "apps/staking-pool-comparator"]
+	path = apps/staking-pool-comparator
+	url = https://github.com/miniapp-factory/staking-pool-comparator.git
+[submodule "apps/starship"]
+	path = apps/starship
+	url = https://github.com/miniapp-factory/starship.git
+[submodule "apps/storyprompt"]
+	path = apps/storyprompt
+	url = https://github.com/miniapp-factory/storyprompt.git
+[submodule "apps/studybuddy"]
+	path = apps/studybuddy
+	url = https://github.com/miniapp-factory/studybuddy.git
+[submodule "apps/sudoku"]
+	path = apps/sudoku
+	url = https://github.com/miniapp-factory/sudoku.git
+[submodule "apps/sudoku-tutor-guide"]
+	path = apps/sudoku-tutor-guide
+	url = https://github.com/miniapp-factory/sudoku-tutor-guide.git
+[submodule "apps/super-mario"]
+	path = apps/super-mario
+	url = https://github.com/miniapp-factory/super-mario.git
+[submodule "apps/swera"]
+	path = apps/swera
+	url = https://github.com/miniapp-factory/swera.git
+[submodule "apps/task-manager"]
+	path = apps/task-manager
+	url = https://github.com/miniapp-factory/task-manager.git
+[submodule "apps/teddi"]
+	path = apps/teddi
+	url = https://github.com/miniapp-factory/teddi.git
+[submodule "apps/tetris"]
+	path = apps/tetris
+	url = https://github.com/miniapp-factory/tetris.git
+[submodule "apps/tiara"]
+	path = apps/tiara
+	url = https://github.com/miniapp-factory/tiara.git
+[submodule "apps/tiktaktok"]
+	path = apps/tiktaktok
+	url = https://github.com/miniapp-factory/tiktaktok.git
+[submodule "apps/tini"]
+	path = apps/tini
+	url = https://github.com/miniapp-factory/tini.git
+[submodule "apps/token-market-place"]
+	path = apps/token-market-place
+	url = https://github.com/miniapp-factory/token-market-place.git
+[submodule "apps/token-supply-overview"]
+	path = apps/token-supply-overview
+	url = https://github.com/miniapp-factory/token-supply-overview.git
+[submodule "apps/tokenanalyzer"]
+	path = apps/tokenanalyzer
+	url = https://github.com/miniapp-factory/tokenanalyzer.git
+[submodule "apps/tokencountdown"]
+	path = apps/tokencountdown
+	url = https://github.com/miniapp-factory/tokencountdown.git
+[submodule "apps/tokenholderdistribution"]
+	path = apps/tokenholderdistribution
+	url = https://github.com/miniapp-factory/tokenholderdistribution.git
+[submodule "apps/tokenprice"]
+	path = apps/tokenprice
+	url = https://github.com/miniapp-factory/tokenprice.git
+[submodule "apps/tokenstats"]
+	path = apps/tokenstats
+	url = https://github.com/miniapp-factory/tokenstats.git
+[submodule "apps/tokenswaphelper"]
+	path = apps/tokenswaphelper
+	url = https://github.com/miniapp-factory/tokenswaphelper.git
+[submodule "apps/tokenvesting"]
+	path = apps/tokenvesting
+	url = https://github.com/miniapp-factory/tokenvesting.git
+[submodule "apps/toyt"]
+	path = apps/toyt
+	url = https://github.com/miniapp-factory/toyt.git
+[submodule "apps/travelai"]
+	path = apps/travelai
+	url = https://github.com/miniapp-factory/travelai.git
+[submodule "apps/treasure-quest-runner"]
+	path = apps/treasure-quest-runner
+	url = https://github.com/miniapp-factory/treasure-quest-runner.git
+[submodule "apps/trendingnfts"]
+	path = apps/trendingnfts
+	url = https://github.com/miniapp-factory/trendingnfts.git
+[submodule "apps/triks"]
+	path = apps/triks
+	url = https://github.com/miniapp-factory/triks.git
+[submodule "apps/try"]
+	path = apps/try
+	url = https://github.com/miniapp-factory/try.git
+[submodule "apps/tweet-tracker"]
+	path = apps/tweet-tracker
+	url = https://github.com/miniapp-factory/tweet-tracker.git
+[submodule "apps/ukyf"]
+	path = apps/ukyf
+	url = https://github.com/miniapp-factory/ukyf.git
+[submodule "apps/unique"]
+	path = apps/unique
+	url = https://github.com/miniapp-factory/unique.git
+[submodule "apps/unknown-invaders"]
+	path = apps/unknown-invaders
+	url = https://github.com/miniapp-factory/unknown-invaders.git
+[submodule "apps/ux"]
+	path = apps/ux
+	url = https://github.com/miniapp-factory/ux.git
+[submodule "apps/vas1825"]
+	path = apps/vas1825
+	url = https://github.com/miniapp-factory/vas1825.git
+[submodule "apps/verion1"]
+	path = apps/verion1
+	url = https://github.com/miniapp-factory/verion1.git
+[submodule "apps/vfx"]
+	path = apps/vfx
+	url = https://github.com/miniapp-factory/vfx.git
+[submodule "apps/vocabmatcher"]
+	path = apps/vocabmatcher
+	url = https://github.com/miniapp-factory/vocabmatcher.git
+[submodule "apps/volatilityradar"]
+	path = apps/volatilityradar
+	url = https://github.com/miniapp-factory/volatilityradar.git
+[submodule "apps/walletscan"]
+	path = apps/walletscan
+	url = https://github.com/miniapp-factory/walletscan.git
+[submodule "apps/website"]
+	path = apps/website
+	url = https://github.com/miniapp-factory/website.git
+[submodule "apps/whalemovementtracker"]
+	path = apps/whalemovementtracker
+	url = https://github.com/miniapp-factory/whalemovementtracker.git
+[submodule "apps/windylam"]
+	path = apps/windylam
+	url = https://github.com/miniapp-factory/windylam.git
+[submodule "apps/wlguide"]
+	path = apps/wlguide
+	url = https://github.com/miniapp-factory/wlguide.git
+[submodule "apps/wordladdermini"]
+	path = apps/wordladdermini
+	url = https://github.com/miniapp-factory/wordladdermini.git
+[submodule "apps/www663"]
+	path = apps/www663
+	url = https://github.com/miniapp-factory/www663.git
+[submodule "apps/xnxx"]
+	path = apps/xnxx
+	url = https://github.com/miniapp-factory/xnxx.git
+[submodule "apps/xt"]
+	path = apps/xt
+	url = https://github.com/miniapp-factory/xt.git
+[submodule "apps/zeanlo"]
+	path = apps/zeanlo
+	url = https://github.com/miniapp-factory/zeanlo.git
+[submodule "apps/zerty"]
+	path = apps/zerty
+	url = https://github.com/miniapp-factory/zerty.git
+[submodule "apps/ali-ai"]
+	path = apps/ali-ai
+	url = https://github.com/miniapp-factory/ali-ai.git
+[submodule "apps/awuuu"]
+	path = apps/awuuu
+	url = https://github.com/miniapp-factory/awuuu.git
+[submodule "apps/bonfire"]
+	path = apps/bonfire
+	url = https://github.com/miniapp-factory/bonfire.git
+[submodule "apps/bounty-go"]
+	path = apps/bounty-go
+	url = https://github.com/miniapp-factory/bounty-go.git
+[submodule "apps/casino"]
+	path = apps/casino
+	url = https://github.com/miniapp-factory/casino.git
+[submodule "apps/evolve"]
+	path = apps/evolve
+	url = https://github.com/miniapp-factory/evolve.git
+[submodule "apps/firefly-keeper"]
+	path = apps/firefly-keeper
+	url = https://github.com/miniapp-factory/firefly-keeper.git
+[submodule "apps/food-mines"]
+	path = apps/food-mines
+	url = https://github.com/miniapp-factory/food-mines.git
+[submodule "apps/get-my-meds"]
+	path = apps/get-my-meds
+	url = https://github.com/miniapp-factory/get-my-meds.git
+[submodule "apps/infinite-ai-trivia"]
+	path = apps/infinite-ai-trivia
+	url = https://github.com/miniapp-factory/infinite-ai-trivia.git
+[submodule "apps/jiji"]
+	path = apps/jiji
+	url = https://github.com/miniapp-factory/jiji.git
+[submodule "apps/late-for-class"]
+	path = apps/late-for-class
+	url = https://github.com/miniapp-factory/late-for-class.git
+[submodule "apps/lucky-spin"]
+	path = apps/lucky-spin
+	url = https://github.com/miniapp-factory/lucky-spin.git
+[submodule "apps/my-cutesey"]
+	path = apps/my-cutesey
+	url = https://github.com/miniapp-factory/my-cutesey.git
+[submodule "apps/nikolas"]
+	path = apps/nikolas
+	url = https://github.com/miniapp-factory/nikolas.git
+[submodule "apps/omega"]
+	path = apps/omega
+	url = https://github.com/miniapp-factory/omega.git
+[submodule "apps/puzzle"]
+	path = apps/puzzle
+	url = https://github.com/miniapp-factory/puzzle.git
+[submodule "apps/random-game"]
+	path = apps/random-game
+	url = https://github.com/miniapp-factory/random-game.git
+[submodule "apps/rocky"]
+	path = apps/rocky
+	url = https://github.com/miniapp-factory/rocky.git
+[submodule "apps/store-smart-calculator"]
+	path = apps/store-smart-calculator
+	url = https://github.com/miniapp-factory/store-smart-calculator.git
+[submodule "apps/the-oracle"]
+	path = apps/the-oracle
+	url = https://github.com/miniapp-factory/the-oracle.git
+[submodule "apps/typhoon-preparedness-app"]
+	path = apps/typhoon-preparedness-app
+	url = https://github.com/miniapp-factory/typhoon-preparedness-app.git
+[submodule "apps/verifolio"]
+	path = apps/verifolio
+	url = https://github.com/miniapp-factory/verifolio.git
