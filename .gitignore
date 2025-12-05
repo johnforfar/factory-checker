@@ -57,3 +57,5 @@ ENV/
 
 # Vercel
 .vercel
+
+app-review/apps/*apps/
